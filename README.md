@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner](https://raw.githubusercontent.com/navdeep-singh-3147/navdeep-singh-3147/main/Banner.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Navdeep+Singh+%F0%9F%91%8B;Senior+Data+Scientist+%7C+AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Fine-Tuning;I+build+AI+that+runs+in+production)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=navdeep-singh-3147&label=Profile%20Views&color=0e75b6&style=plastic)](https://github.com/navdeep-singh-3147)
