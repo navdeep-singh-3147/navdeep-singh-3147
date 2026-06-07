@@ -16,6 +16,7 @@
 
 </div>
 
+---
 
 <img align="right" alt="AI" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
@@ -31,6 +32,7 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 
 <br clear="right"/>
 
+---
 
 ### Featured Work
 
@@ -74,6 +76,7 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 &nbsp;&nbsp;&nbsp;&bull; Sequence packing eliminates padding token waste.<br>
 &nbsp;&nbsp;&nbsp;&bull; Substantially reduced compute overhead and training cost.</p>
 
+---
 
 ### Tech Stack
 
@@ -151,6 +154,7 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
   </tr>
 </table>
 
+---
 
 ### GitHub Stats
 
