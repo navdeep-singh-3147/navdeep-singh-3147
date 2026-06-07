@@ -4,21 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Navdeep+Singh+%F0%9F%91%8B;Senior+Data+Scientist+%7C+AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Fine-Tuning;I+build+AI+that+runs+in+production)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=navdeep-singh-3147&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/navdeep-singh-3147)
+[![Profile Views](https://komarev.com/ghpvc/?username=navdeep-singh-3147&label=Profile%20Views&color=0e75b6&style=plastic)](https://github.com/navdeep-singh-3147)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-navdeeps635-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navdeeps635)
+[![LinkedIn](https://badgen.net/badge/%20/LinkedIn/0077B5?icon=linkedin&labelColor=777)](https://linkedin.com/in/navdeeps635)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-navdeep.singh.3147-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navdeep.singh.3147@gmail.com)
+[![Email](https://badgen.net/badge/%20/navdeep.singh.3147%40gmail.com/D14836?icon=gmail&labelColor=777)](mailto:navdeep.singh.3147@gmail.com)
 &nbsp;
-[![AWS ML](https://img.shields.io/badge/AWS-ML%20Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS ML Specialty](https://badgen.net/badge/%20/AWS%20ML%20Specialty/FF9900?icon=amazonaws&labelColor=777)](https://aws.amazon.com/certification/)
 &nbsp;
-[![Databricks](https://img.shields.io/badge/Databricks-GenAI%20Engineer-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/learn/certification/)
+[![Databricks GenAI Engineer](https://badgen.net/badge/%20/Databricks%20GenAI%20Engineer/FF3621?icon=databricks&labelColor=777)](https://www.databricks.com/learn/certification/)
 
 </div>
 
 ---
 
-<img align="right" alt="AI" width="320" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+<img align="right" alt="AI" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 ### What I Do
 
@@ -36,72 +36,37 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 
 ### Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>🤖 <b>Agentic Deduction System</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangGraph/28A870?icon=langchain&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4o/6050C8?icon=openai&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/MCP/4880C8?icon=anthropic&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Azure/3878C8?icon=microsoftazure&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Built a 3-agent orchestration (Planner-Executor → LLM-as-a-Judge → Reporting) to automate vendor deduction dispute workflows.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Eliminated manual review for qty shortages, damages, and returns — zero human intervention on covered dispute categories.</p>
 
-**🔷 Agentic Deduction System**
-3-agent workflow (Planner-Executor → LLM-as-a-Judge → PDF Report) that fully automates vendor deduction dispute resolution — zero manual review.
-`LangGraph` `GPT-4o` `MCP` `Azure`
+<p>📄 <b>Document Intelligence Pipeline</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4%20Vision/6050C8?icon=openai&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Azure%20Doc%20Intelligence/3878C8?icon=microsoftazure&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Azure-native pipeline using Azure Document Intelligence for multi-format ingestion (PDF, DOCX, Excel, Email, Images) with smart routing and classification.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; GPT-4o performs schema-aware extraction on top with per-field confidence scoring at production-grade concurrency.</p>
 
-</td>
-<td width="50%" valign="top">
+<p>🔍 <b>Domain-Adaptive RAG Engine</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FAISS/3878C8?icon=meta&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Hybrid%20Search/587888?icon=elasticsearch&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; RAG pipeline that preserves business-specific terminology (SKU codes, internal jargon) lost in generic translations.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Deployed as FastAPI microservices with hybrid BM25 + dense retrieval handling high-concurrency production traffic.</p>
 
-**🔷 Document Intelligence Pipeline**
-Azure-native ingestion for PDF, DOCX, Excel, Email, Images — GPT-4o extraction with per-field confidence scoring at production scale.
-`GPT-4 Vision` `Azure AI` `FastAPI`
+<p>📊 <b>Demand Forecasting System</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/XGBoost/4878C0?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/CatBoost/D84040?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Prophet/7840B8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Optuna/5868B8?labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Ensemble model with smooth/lumpy demand classification and Optuna Bayesian tuning across 1,000+ logistics lanes.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Predicts 8 weeks ahead achieving ~75% accuracy — +10% improvement over baseline.</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p>🏥 <b>Healthcare Sales Intelligence</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4/6050C8?icon=openai&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Text2SQL/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; LLM analytics pipeline generating structured insights and natural-language summaries from raw sales data.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Text2SQL layer enables analysts to query data in plain English, eliminating reliance on manual reporting.</p>
 
-**🔷 Domain-Adaptive RAG Engine**
-RAG pipeline preserving business-specific terminology in translations; deployed as high-concurrency FastAPI microservices.
-`LangChain` `FAISS` `Hybrid Search` `FastAPI`
+<p>🔧 <b>Maintenance AI Agent</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/ReAct/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; ReAct-based agent (Thought-Action-Observation loop) that queries live equipment databases in real time.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Delivers actionable maintenance insights on demand, replacing static dashboards and manual data pulls.</p>
 
-</td>
-<td width="50%" valign="top">
+<p>🧬 <b>LLM Fine-Tuning — Llama 3</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Unsloth/B85020?icon=pytorch&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LoRA/7840B8?icon=pytorch&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PEFT/3870C0?icon=huggingface&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LLM-as-a-Judge/5868B8?labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Fine-tuned Llama 3 in 4-bit precision using Unsloth + LoRA adapters, updating less than 1% of parameters.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Curated 1,000 instruction samples with progressive complexity; validated with LLM-as-a-Judge. Matched FP16 quality.</p>
 
-**🔷 Demand Forecasting System**
-Ensemble model with Optuna Bayesian tuning — ~75% accuracy, +10% over baseline across 1,000+ logistics lanes, 8 weeks ahead.
-`XGBoost` `CatBoost` `Prophet` `Optuna`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔷 Healthcare Sales Intelligence**
-LLM pipeline with Text2SQL layer — analysts query sales data in plain English, replacing manual reporting entirely.
-`GPT-4` `Text2SQL` `LangChain`
-
-</td>
-<td width="50%" valign="top">
-
-**🔷 Maintenance AI Agent**
-ReAct-based agent (Thought-Action-Observation loop) that queries live equipment data and delivers real-time maintenance insights on demand.
-`ReAct` `LangChain` `Tool Use` `FastAPI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔷 LLM Fine-Tuning — Llama 3**
-Fine-tuned Llama 3 in 4-bit precision using Unsloth + LoRA; curated 1,000 instruction samples with progressive complexity, evaluated with LLM-as-a-Judge. Matched FP16 quality at a fraction of compute.
-`Unsloth` `LoRA` `PEFT` `LLM-as-a-Judge`
-
-</td>
-<td width="50%" valign="top">
-
-**🔷 Llama 2 from Scratch**
-Full decoder-only Transformer in PyTorch — RoPE, RMSNorm, SwiGLU, sequence packing to eliminate padding waste and cut training compute overhead substantially.
-`PyTorch` `RoPE` `SwiGLU` `Sequence Packing`
-
-</td>
-</tr>
-</table>
+<p>⚙️ <b>Llama 2 from Scratch</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PyTorch/D84040?icon=pytorch&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/RoPE/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/RMSNorm/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/SwiGLU/4A7FA8?labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Implemented a complete decoder-only Transformer in PyTorch — RoPE positional embeddings, RMSNorm, SwiGLU activation.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Sequence packing eliminates padding token waste, substantially reducing compute overhead and training cost.</p>
 
 ---
 
@@ -111,72 +76,72 @@ Full decoder-only Transformer in PyTorch — RoPE, RMSNorm, SwiGLU, sequence pac
   <tr>
     <td nowrap><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-4B8EC4?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-5B9BD5?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PySpark-E8795A?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Python/4A90D9?icon=python&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/SQL/4A80BF?icon=postgresql&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PySpark/D46040?icon=apachespark&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>Agentic AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-4A9A6A?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangGraph-3AAA78?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LlamaIndex-8B6CC8?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CrewAI-E06060?style=for-the-badge&logo=crewai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP_Protocol-5A8FD4?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangGraph/28A870?icon=langchain&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LlamaIndex/7850C0?icon=llamaindex&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/CrewAI/D05050?icon=crewai&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/MCP%20Protocol/4880C8?icon=anthropic&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>LLMs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/GPT--4o-6B5EC8?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure_OpenAI-4A9FD4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude-D46535?style=for-the-badge&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Llama_3-4A8FD4?style=for-the-badge&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-F5C842?style=for-the-badge&logo=huggingface&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4o/6050C8?icon=openai&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Azure%20OpenAI/3888D0?icon=microsoftazure&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Claude/C05820?icon=anthropic&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Llama%203/3878D0?icon=meta&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/HuggingFace/C89010?icon=huggingface&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>ML & Deep Learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-F06060?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F4A040?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-5A8FD4?style=for-the-badge&logo=xgboost&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Optuna-7A8FD4?style=for-the-badge&logo=optuna&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PyTorch/D84040?icon=pytorch&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/scikit-learn/D07818?icon=scikitlearn&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/XGBoost/4878C0?icon=xgboost&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Optuna/5868B8?icon=optuna&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>RAG & Vector Search</b></td>
     <td>
-      <img src="https://img.shields.io/badge/FAISS-4A8FD4?style=for-the-badge&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pinecone-3AAA6A?style=for-the-badge&logo=pinecone&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChromaDB-F0A040?style=for-the-badge&logo=chroma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hybrid_Search-7A8FA0?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FAISS/3878C8?icon=meta&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Pinecone/289858?icon=pinecone&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/ChromaDB/C87818?icon=chroma&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Hybrid%20Search/587888?icon=elasticsearch&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>LLM Fine-Tuning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-9B6AC8?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Unsloth-D47040?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PEFT-4A8FD4?style=for-the-badge&logo=huggingface&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LoRA%20%2F%20QLoRA/7840B8?icon=pytorch&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Unsloth/B85020?icon=pytorch&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PEFT/3870C0?icon=huggingface&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>LLMOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LangSmith-3AAA6A?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Langfuse-A06AC8?style=for-the-badge&logo=grafana&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-4AAAD4?style=for-the-badge&logo=mlflow&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangSmith/289858?icon=langchain&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Langfuse/8040B0?icon=grafana&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/MLflow/2890D0?icon=mlflow&labelColor=777"/>
     </td>
   </tr>
   <tr>
     <td nowrap><b>Cloud & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure-4A8FD4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Databricks-FF6644?style=for-the-badge&logo=databricks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-30B8A0?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-4AAAD4?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Azure/3878C8?icon=microsoftazure&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Databricks/D84020?icon=databricks&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/>
+      <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Docker/2890D0?icon=docker&labelColor=777"/>
     </td>
   </tr>
 </table>
