@@ -109,74 +109,74 @@ Full decoder-only Transformer in PyTorch — RoPE, RMSNorm, SwiGLU, sequence pac
 
 <table>
   <tr>
-    <td width="150px"><b>Languages</b></td>
+    <td nowrap><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-4B8EC4?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-5B9BD5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PySpark-E8795A?style=for-the-badge&logo=apachespark&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Agentic AI</b></td>
+    <td nowrap><b>Agentic AI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangGraph-2D6A4F?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LlamaIndex-6B3FA0?style=for-the-badge&logo=llamaindex&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CrewAI-C0392B?style=for-the-badge&logo=crewai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP_Protocol-2471A3?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-4A9A6A?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-3AAA78?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-8B6CC8?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-E06060?style=for-the-badge&logo=crewai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP_Protocol-5A8FD4?style=for-the-badge&logo=anthropic&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>LLMs</b></td>
+    <td nowrap><b>LLMs</b></td>
     <td>
-      <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure_OpenAI-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude-B7410E?style=for-the-badge&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/GPT--4o-6B5EC8?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_OpenAI-4A9FD4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude-D46535?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Llama_3-4A8FD4?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-F5C842?style=for-the-badge&logo=huggingface&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>ML & Deep Learning</b></td>
+    <td nowrap><b>ML & Deep Learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Optuna-5C6BC0?style=for-the-badge&logo=optuna&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-F06060?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F4A040?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-5A8FD4?style=for-the-badge&logo=xgboost&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Optuna-7A8FD4?style=for-the-badge&logo=optuna&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>RAG & Vector Search</b></td>
+    <td nowrap><b>RAG & Vector Search</b></td>
     <td>
-      <img src="https://img.shields.io/badge/FAISS-1A6FA8?style=for-the-badge&logo=meta&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pinecone-1B7F4E?style=for-the-badge&logo=pinecone&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChromaDB-E67E22?style=for-the-badge&logo=chroma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hybrid_Search-566573?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FAISS-4A8FD4?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pinecone-3AAA6A?style=for-the-badge&logo=pinecone&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChromaDB-F0A040?style=for-the-badge&logo=chroma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hybrid_Search-7A8FA0?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>LLM Fine-Tuning</b></td>
+    <td nowrap><b>LLM Fine-Tuning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-6C3483?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Unsloth-BA4A00?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PEFT-1A5276?style=for-the-badge&logo=huggingface&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-9B6AC8?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unsloth-D47040?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PEFT-4A8FD4?style=for-the-badge&logo=huggingface&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>LLMOps</b></td>
+    <td nowrap><b>LLMOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LangSmith-1E8449?style=for-the-badge&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Langfuse-7D3C98?style=for-the-badge&logo=grafana&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangSmith-3AAA6A?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Langfuse-A06AC8?style=for-the-badge&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-4AAAD4?style=for-the-badge&logo=mlflow&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Cloud & DevOps</b></td>
+    <td nowrap><b>Cloud & DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure-4A8FD4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Databricks-FF6644?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-30B8A0?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-4AAAD4?style=for-the-badge&logo=docker&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -184,11 +184,6 @@ Full decoder-only Transformer in PyTorch — RoPE, RMSNorm, SwiGLU, sequence pac
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=navdeep-singh-3147&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeep-singh-3147&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=navdeep-singh-3147&theme=tokyonight&hide_border=true"/>
