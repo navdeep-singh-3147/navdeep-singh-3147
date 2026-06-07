@@ -27,8 +27,8 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 - 🤖 Agentic AI — multi-agent orchestration, ReAct, MCP, Planner-Executor
 - 🔍 Advanced RAG — hybrid search, re-ranking, domain-adaptive pipelines
 - 🧬 LLM Fine-Tuning — LoRA/QLoRA, Unsloth, synthetic data, Evaluation
-- 📄 Document Intelligence — GPT-4 Vision, schema-aware structured extraction
-- ⚡ ML at Scale — ensemble forecasting, demand classification, recommendation systems
+- 📄 Document Intelligence — Azure Document Intelligence, GPT-4 Vision
+- ⚡ ML at Scale — ensemble forecasting, demand classification
 
 <br clear="right"/>
 
