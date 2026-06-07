@@ -1,19 +1,203 @@
-![logo](https://raw.githubusercontent.com/navdeep-singh-3147/navdeep-singh-3147/main/Banner.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
+![Banner](https://raw.githubusercontent.com/navdeep-singh-3147/navdeep-singh-3147/main/Banner.png)
 
-<img align = "right" alt = "coding" width = 400 height = 250 src = https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Navdeep+Singh+%F0%9F%91%8B;Senior+Data+Scientist+%7C+AI+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Fine-Tuning;I+build+AI+that+runs+in+production)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeep-singh-3147&label=Profile%20views&color=0e75b6&style=flat" alt="navdeeps635" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=navdeep-singh-3147&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/navdeep-singh-3147)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-navdeeps635-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/navdeeps635)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-navdeep.singh.3147-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navdeep.singh.3147@gmail.com)
+&nbsp;
+[![AWS ML](https://img.shields.io/badge/AWS-ML%20Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+&nbsp;
+[![Databricks](https://img.shields.io/badge/Databricks-GenAI%20Engineer-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://www.databricks.com/learn/certification/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/navdeeps635" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navdeep-singh-3147" height="30" width="40" /></a>
+</div>
+
+---
+
+<img align="right" alt="AI" width="320" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
+### What I Do
+
+I build production-grade AI systems — agentic workflows, RAG pipelines, and fine-tuned LLMs deployed at enterprise scale across logistics, retail, and CPG.
+
+- 🤖 Agentic AI — multi-agent orchestration, ReAct, MCP, Planner-Executor
+- 🔍 Advanced RAG — hybrid search, re-ranking, domain-adaptive pipelines
+- 🧬 LLM Fine-Tuning — LoRA/QLoRA, Unsloth, synthetic data, LLM-as-a-Judge
+- 📄 Document Intelligence — GPT-4 Vision, schema-aware structured extraction
+- ⚡ ML at Scale — ensemble forecasting, demand classification, recommendation systems
+
+<br clear="right"/>
+
+---
+
+### Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔷 Agentic Deduction System**
+3-agent workflow (Planner-Executor → LLM-as-a-Judge → PDF Report) that fully automates vendor deduction dispute resolution — zero manual review.
+`LangGraph` `GPT-4o` `MCP` `Azure`
+
+</td>
+<td width="50%" valign="top">
+
+**🔷 Document Intelligence Pipeline**
+Azure-native ingestion for PDF, DOCX, Excel, Email, Images — GPT-4o extraction with per-field confidence scoring at production scale.
+`GPT-4 Vision` `Azure AI` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔷 Domain-Adaptive RAG Engine**
+RAG pipeline preserving business-specific terminology in translations; deployed as high-concurrency FastAPI microservices.
+`LangChain` `FAISS` `Hybrid Search` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+**🔷 Demand Forecasting System**
+Ensemble model with Optuna Bayesian tuning — ~75% accuracy, +10% over baseline across 1,000+ logistics lanes, 8 weeks ahead.
+`XGBoost` `CatBoost` `Prophet` `Optuna`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔷 Healthcare Sales Intelligence**
+LLM pipeline with Text2SQL layer — analysts query sales data in plain English, replacing manual reporting entirely.
+`GPT-4` `Text2SQL` `LangChain`
+
+</td>
+<td width="50%" valign="top">
+
+**🔷 Maintenance AI Agent**
+ReAct-based agent (Thought-Action-Observation loop) that queries live equipment data and delivers real-time maintenance insights on demand.
+`ReAct` `LangChain` `Tool Use` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔷 LLM Fine-Tuning — Llama 3**
+Fine-tuned Llama 3 in 4-bit precision using Unsloth + LoRA; curated 1,000 instruction samples with progressive complexity, evaluated with LLM-as-a-Judge. Matched FP16 quality at a fraction of compute.
+`Unsloth` `LoRA` `PEFT` `LLM-as-a-Judge`
+
+</td>
+<td width="50%" valign="top">
+
+**🔷 Llama 2 from Scratch**
+Full decoder-only Transformer in PyTorch — RoPE, RMSNorm, SwiGLU, sequence packing to eliminate padding waste and cut training compute overhead substantially.
+`PyTorch` `RoPE` `SwiGLU` `Sequence Packing`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td width="150px"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Agentic AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-2D6A4F?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-6B3FA0?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-C0392B?style=for-the-badge&logo=crewai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP_Protocol-2471A3?style=for-the-badge&logo=anthropic&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_OpenAI-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude-B7410E?style=for-the-badge&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML & Deep Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Optuna-5C6BC0?style=for-the-badge&logo=optuna&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>RAG & Vector Search</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FAISS-1A6FA8?style=for-the-badge&logo=meta&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pinecone-1B7F4E?style=for-the-badge&logo=pinecone&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChromaDB-E67E22?style=for-the-badge&logo=chroma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hybrid_Search-566573?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLM Fine-Tuning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-6C3483?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unsloth-BA4A00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PEFT-1A5276?style=for-the-badge&logo=huggingface&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLMOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangSmith-1E8449?style=for-the-badge&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Langfuse-7D3C98?style=for-the-badge&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=navdeep-singh-3147&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navdeep-singh-3147&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=navdeep-singh-3147&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeep-singh-3147&show_icons=true&locale=en&layout=compact" alt="navdeep-singh-3147" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeep-singh-3147&show_icons=true&locale=en" alt="navdeep-singh-3147" /></p>
+<div align="center">
+
+*"The best model is the one that ships to production and stays there."*
+
+</div>
