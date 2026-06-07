@@ -36,15 +36,16 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 
 ### Featured Work
 
-<p>🤖 <b>Agentic Deduction System</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/LangGraph/28A870?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4o/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/MCP/4880C8?icon=anthropic&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Azure/3878C8?icon=microsoftazure&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&bull; Built 3-agent orchestration: Planner-Executor → LLM-as-a-Judge → Reporting.<br>
-&nbsp;&nbsp;&nbsp;&bull; Automates vendor deduction disputes — shortages, damages, returns.<br>
-&nbsp;&nbsp;&nbsp;&bull; Zero manual review on covered dispute categories.</p>
-
-<p>📄 <b>Document Intelligence Pipeline</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4%20Vision/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Azure%20Doc%20Intelligence/3878C8?icon=microsoftazure&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
+<p>🤖 <b>Agentic Deduction System </b> — <img align="absmiddle" src="https://badgen.net/badge/%20/LangGraph/28A870?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4o/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/MCP/4880C8?icon=anthropic&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Azure/3878C8?icon=microsoftazure&labelColor=777"/><br>
 &nbsp;&nbsp;&nbsp;&bull; Azure Document Intelligence ingests PDF, DOCX, Excel, Email, Images.<br>
 &nbsp;&nbsp;&nbsp;&bull; Smart routing and format-aware classification at ingestion.<br>
-&nbsp;&nbsp;&nbsp;&bull; GPT-4o extraction with per-field confidence scoring at production scale.</p>
+&nbsp;&nbsp;&nbsp;&bull; Built 3-agent orchestration: Planner-Executor → LLM-as-a-Judge → Reporting.<br>
+&nbsp;&nbsp;&nbsp;&bull; Automates vendor deduction disputes — shortages, damages, returns.<br>
+
+<p>🏥 <b>Healthcare Sales Intelligence</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Text2SQL/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; LLM pipeline generating structured insights from raw sales data.<br>
+&nbsp;&nbsp;&nbsp;&bull; Natural-language summaries delivered alongside structured outputs.<br>
+&nbsp;&nbsp;&nbsp;&bull; Text2SQL layer for plain-English queries — no manual reporting.</p>
 
 <p>🔍 <b>Domain-Adaptive RAG Engine</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/FAISS/3878C8?icon=meta&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Hybrid%20Search/587888?icon=elasticsearch&labelColor=777"/><br>
 &nbsp;&nbsp;&nbsp;&bull; Preserves business terminology (SKU codes, jargon) lost in generic translations.<br>
@@ -55,16 +56,6 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 &nbsp;&nbsp;&nbsp;&bull; Ensemble with smooth/lumpy demand classification across 1,000+ lanes.<br>
 &nbsp;&nbsp;&nbsp;&bull; Optuna Bayesian tuning for hyperparameter optimization.<br>
 &nbsp;&nbsp;&nbsp;&bull; ~75% accuracy, 8 weeks ahead — +10% over baseline.</p>
-
-<p>🏥 <b>Healthcare Sales Intelligence</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Text2SQL/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&bull; LLM pipeline generating structured insights from raw sales data.<br>
-&nbsp;&nbsp;&nbsp;&bull; Natural-language summaries delivered alongside structured outputs.<br>
-&nbsp;&nbsp;&nbsp;&bull; Text2SQL layer for plain-English queries — no manual reporting.</p>
-
-<p>🔧 <b>Maintenance AI Agent</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/ReAct/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&bull; ReAct agent (Thought-Action-Observation) on live equipment databases.<br>
-&nbsp;&nbsp;&nbsp;&bull; Delivers real-time maintenance insights on demand.<br>
-&nbsp;&nbsp;&nbsp;&bull; Replaced static dashboards and manual data pulls entirely.</p>
 
 <p>🧬 <b>LLM Fine-Tuning — Llama 3</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/Unsloth/B85020?icon=pytorch&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LoRA/7840B8?icon=pytorch&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/PEFT/3870C0?icon=huggingface&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LLM-as-a-Judge/5868B8?labelColor=777"/><br>
 &nbsp;&nbsp;&nbsp;&bull; Fine-tuned in 4-bit precision — updating less than 1% of parameters.<br>
