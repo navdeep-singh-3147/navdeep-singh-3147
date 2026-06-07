@@ -16,7 +16,6 @@
 
 </div>
 
----
 
 <img align="right" alt="AI" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
@@ -32,43 +31,49 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
 
 <br clear="right"/>
 
----
 
 ### Featured Work
 
-<p>🤖 <b>Agentic Deduction System</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangGraph/28A870?icon=langchain&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4o/6050C8?icon=openai&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/MCP/4880C8?icon=anthropic&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Azure/3878C8?icon=microsoftazure&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Built a 3-agent orchestration (Planner-Executor → LLM-as-a-Judge → Reporting) to automate vendor deduction dispute workflows.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Eliminated manual review for qty shortages, damages, and returns — zero human intervention on covered dispute categories.</p>
+<p>🤖 <b>Agentic Deduction System</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/LangGraph/28A870?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4o/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/MCP/4880C8?icon=anthropic&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Azure/3878C8?icon=microsoftazure&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; Built 3-agent orchestration: Planner-Executor → LLM-as-a-Judge → Reporting.<br>
+&nbsp;&nbsp;&nbsp;&bull; Automates vendor deduction disputes — shortages, damages, returns.<br>
+&nbsp;&nbsp;&nbsp;&bull; Zero manual review on covered dispute categories.</p>
 
-<p>📄 <b>Document Intelligence Pipeline</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4%20Vision/6050C8?icon=openai&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Azure%20Doc%20Intelligence/3878C8?icon=microsoftazure&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Azure-native pipeline using Azure Document Intelligence for multi-format ingestion (PDF, DOCX, Excel, Email, Images) with smart routing and classification.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; GPT-4o performs schema-aware extraction on top with per-field confidence scoring at production-grade concurrency.</p>
+<p>📄 <b>Document Intelligence Pipeline</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4%20Vision/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Azure%20Doc%20Intelligence/3878C8?icon=microsoftazure&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; Azure Document Intelligence ingests PDF, DOCX, Excel, Email, Images.<br>
+&nbsp;&nbsp;&nbsp;&bull; Smart routing and format-aware classification at ingestion.<br>
+&nbsp;&nbsp;&nbsp;&bull; GPT-4o extraction with per-field confidence scoring at production scale.</p>
 
-<p>🔍 <b>Domain-Adaptive RAG Engine</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FAISS/3878C8?icon=meta&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Hybrid%20Search/587888?icon=elasticsearch&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; RAG pipeline that preserves business-specific terminology (SKU codes, internal jargon) lost in generic translations.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Deployed as FastAPI microservices with hybrid BM25 + dense retrieval handling high-concurrency production traffic.</p>
+<p>🔍 <b>Domain-Adaptive RAG Engine</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/FAISS/3878C8?icon=meta&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Hybrid%20Search/587888?icon=elasticsearch&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; Preserves business terminology (SKU codes, jargon) lost in generic translations.<br>
+&nbsp;&nbsp;&nbsp;&bull; Hybrid BM25 + dense retrieval with re-ranking for accuracy.<br>
+&nbsp;&nbsp;&nbsp;&bull; Deployed as high-concurrency FastAPI microservices in production.</p>
 
-<p>📊 <b>Demand Forecasting System</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/XGBoost/4878C0?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/CatBoost/D84040?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Prophet/7840B8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Optuna/5868B8?labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Ensemble model with smooth/lumpy demand classification and Optuna Bayesian tuning across 1,000+ logistics lanes.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Predicts 8 weeks ahead achieving ~75% accuracy — +10% improvement over baseline.</p>
+<p>📊 <b>Demand Forecasting System</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/XGBoost/4878C0?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/CatBoost/D84040?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Prophet/7840B8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Optuna/5868B8?labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; Ensemble with smooth/lumpy demand classification across 1,000+ lanes.<br>
+&nbsp;&nbsp;&nbsp;&bull; Optuna Bayesian tuning for hyperparameter optimization.<br>
+&nbsp;&nbsp;&nbsp;&bull; ~75% accuracy, 8 weeks ahead — +10% over baseline.</p>
 
-<p>🏥 <b>Healthcare Sales Intelligence</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/GPT-4/6050C8?icon=openai&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Text2SQL/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; LLM analytics pipeline generating structured insights and natural-language summaries from raw sales data.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Text2SQL layer enables analysts to query data in plain English, eliminating reliance on manual reporting.</p>
+<p>🏥 <b>Healthcare Sales Intelligence</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/GPT-4/6050C8?icon=openai&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/Text2SQL/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; LLM pipeline generating structured insights from raw sales data.<br>
+&nbsp;&nbsp;&nbsp;&bull; Natural-language summaries delivered alongside structured outputs.<br>
+&nbsp;&nbsp;&nbsp;&bull; Text2SQL layer for plain-English queries — no manual reporting.</p>
 
-<p>🔧 <b>Maintenance AI Agent</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/ReAct/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; ReAct-based agent (Thought-Action-Observation loop) that queries live equipment databases in real time.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Delivers actionable maintenance insights on demand, replacing static dashboards and manual data pulls.</p>
+<p>🔧 <b>Maintenance AI Agent</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/ReAct/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LangChain/2E9060?icon=langchain&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/FastAPI/189880?icon=fastapi&labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; ReAct agent (Thought-Action-Observation) on live equipment databases.<br>
+&nbsp;&nbsp;&nbsp;&bull; Delivers real-time maintenance insights on demand.<br>
+&nbsp;&nbsp;&nbsp;&bull; Replaced static dashboards and manual data pulls entirely.</p>
 
-<p>🧬 <b>LLM Fine-Tuning — Llama 3</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/Unsloth/B85020?icon=pytorch&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LoRA/7840B8?icon=pytorch&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PEFT/3870C0?icon=huggingface&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/LLM-as-a-Judge/5868B8?labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Fine-tuned Llama 3 in 4-bit precision using Unsloth + LoRA adapters, updating less than 1% of parameters.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Curated 1,000 instruction samples with progressive complexity; validated with LLM-as-a-Judge. Matched FP16 quality.</p>
+<p>🧬 <b>LLM Fine-Tuning — Llama 3</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/Unsloth/B85020?icon=pytorch&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LoRA/7840B8?icon=pytorch&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/PEFT/3870C0?icon=huggingface&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/LLM-as-a-Judge/5868B8?labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; Fine-tuned in 4-bit precision — updating less than 1% of parameters.<br>
+&nbsp;&nbsp;&nbsp;&bull; Curated 1,000 samples with progressive complexity evolutions.<br>
+&nbsp;&nbsp;&nbsp;&bull; LLM-as-a-Judge validation; matched FP16 quality at fraction of compute.</p>
 
-<p>⚙️ <b>Llama 2 from Scratch</b> — <img style="vertical-align:middle" src="https://badgen.net/badge/%20/PyTorch/D84040?icon=pytorch&labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/RoPE/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/RMSNorm/4A7FA8?labelColor=777"/> <img style="vertical-align:middle" src="https://badgen.net/badge/%20/SwiGLU/4A7FA8?labelColor=777"/><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Implemented a complete decoder-only Transformer in PyTorch — RoPE positional embeddings, RMSNorm, SwiGLU activation.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; Sequence packing eliminates padding token waste, substantially reducing compute overhead and training cost.</p>
+<p>⚙️ <b>Llama 2 from Scratch</b> — <img align="absmiddle" src="https://badgen.net/badge/%20/PyTorch/D84040?icon=pytorch&labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/RoPE/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/RMSNorm/4A7FA8?labelColor=777"/> <img align="absmiddle" src="https://badgen.net/badge/%20/SwiGLU/4A7FA8?labelColor=777"/><br>
+&nbsp;&nbsp;&nbsp;&bull; Full decoder-only Transformer: RoPE, RMSNorm, SwiGLU activation.<br>
+&nbsp;&nbsp;&nbsp;&bull; Sequence packing eliminates padding token waste.<br>
+&nbsp;&nbsp;&nbsp;&bull; Substantially reduced compute overhead and training cost.</p>
 
----
 
 ### Tech Stack
 
@@ -146,7 +151,6 @@ I build production-grade AI systems — agentic workflows, RAG pipelines, and fi
   </tr>
 </table>
 
----
 
 ### GitHub Stats
 
